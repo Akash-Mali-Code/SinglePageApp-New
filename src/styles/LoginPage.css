@@ -1,0 +1,32 @@
+.login-page {
+    background-color: lightgray;
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .login-page h1 {
+    color: darkslategray;
+    font-size: 3rem;
+  }
+  
+  .login-page input {
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 200px;
+  }
+  
+  .login-page button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 1.2rem;
+  }
+  
+  .login-page button:hover {
+    background-color: #218838;
+  }
+  

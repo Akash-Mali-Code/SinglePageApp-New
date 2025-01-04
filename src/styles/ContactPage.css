@@ -1,0 +1,34 @@
+.contact-page {
+    text-align: center;
+    background-color: #fafafa;
+    padding: 10px;  
+   
+  }
+  
+  .contact-page h1 {
+    color: #333;
+  }
+  
+  .contact-page input, .contact-page textarea {
+    width: 20%;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+
+  }
+  
+  .contact-page .btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .contact-page .btn:hover {
+    background-color: #45a049;
+  }
+  
+   

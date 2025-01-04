@@ -1,0 +1,27 @@
+.products-page {
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+  }
+  
+  .products-page ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .products-page li {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .products-page h3 {
+    color: #333;
+  }
+  
+  .products-page strong {
+    color: green;
+  }
+  
+  
